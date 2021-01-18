@@ -1,0 +1,3 @@
+FirstName,Shady
+LastName,Fouad
+Major,CIE
